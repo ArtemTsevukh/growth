@@ -1,3 +1,5 @@
+//  https://youtu.be/4AMVQ2-2DcM
+
 let arr = ["Ilya", "Kantor"]
 
 // firstName=arr[0], surname=arr[1]
