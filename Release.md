@@ -13,3 +13,8 @@ Personal growth ticket release
 * [Write down SDLC cycle which is on current project you are working in #2](https://github.com/ArtemTsevukh/growth/issues/2)
 * [Design Patterns: read one execute one pattern in javascript in a day #17](https://github.com/ArtemTsevukh/growth/issues/17)
 
+## Fri Dec 29 17:59:50 2023
+
+* [Know the PWA capabilities #3](https://github.com/ArtemTsevukh/growth/issues/3)
+* [Create TypeScript code notes #7](https://github.com/ArtemTsevukh/growth/issues/7)
+
